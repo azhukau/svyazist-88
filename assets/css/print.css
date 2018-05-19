@@ -1,0 +1,66 @@
+.w1 {
+	width : 100%;
+}
+
+.w20 {
+	width : 20%;
+}
+
+.a1 {
+	text-align: center;
+}
+
+.t1 {
+	font-size: 10mm;
+	font-weight: bold;
+}
+
+.t2 {
+	font-size: 6mm;
+}
+
+.t3 {
+	font-size: 4mm;
+	font-weight: bold;
+}
+
+.t4 {
+	font-size: 3mm;
+}
+
+.t5 {
+	font-size: 2mm;
+}
+
+.m1 {
+	margin-top: 10mm;
+	margin-bottom: 10mm;
+}
+
+.m2 {
+	margin-top: 5mm;
+	margin-bottom: 5mm;
+}
+
+.p1 {
+	padding-top: 20mm;
+	padding-bottom: 10mm;
+}
+
+.p2 {
+	padding-bottom: 10mm;
+}
+
+.tb1 {
+	border-collapse: collapse;
+}
+
+.td1 {
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+.pb1 {
+	break-before: page;
+}
