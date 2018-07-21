@@ -6,6 +6,12 @@
 	width : 20%;
 }
 
+.w50 {
+	width : 50%;
+	padding-right: 10mm;
+	padding-left: 10mm;
+}
+
 .a1 {
 	text-align: center;
 }
@@ -20,16 +26,16 @@
 }
 
 .t3 {
-	font-size: 4mm;
+	font-size: 5mm;
 	font-weight: bold;
 }
 
 .t4 {
-	font-size: 3mm;
+	font-size: 4mm;
 }
 
 .t5 {
-	font-size: 2mm;
+	font-size: 3mm;
 }
 
 .m1 {
@@ -53,6 +59,11 @@
 
 .tb1 {
 	border-collapse: collapse;
+}
+
+.tb2 {
+	border-left: solid;
+	border-width: 1px;
 }
 
 .td1 {
